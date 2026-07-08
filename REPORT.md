@@ -1,6 +1,6 @@
 # Technical Report — Akulearn WAEC Math Tutor (Offline)
 
-**Team ID:** *(see `metadata.json` → `team_id`)*
+**Team ID:** FE/23/27521206
 **Domain:** math_scientific_reasoning
 **Model:** Phi-3.5-mini-instruct-Q4_K_M
 
