@@ -1,6 +1,6 @@
 # Technical Report — Akulearn WAEC Math Tutor (Offline)
 
-**Team ID:** FE/23/27521206
+**Team ID:** https://devpost.com/software/aku
 **Domain:** math_scientific_reasoning
 **Model:** Phi-3.5-mini-instruct-Q4_K_M
 
@@ -134,3 +134,5 @@ direct, contest-scoped instantiation of that architecture:
 A strong ADTC result directly validates the EdgeHub inference design and strengthens
 the Akulearn platform's position as an offline-first AI education product for Africa.
 
+A strong ADTC result directly validates the EdgeHub inference design and strengthens
+the Akulearn platform's position as an offline-first AI education product for Africa.
